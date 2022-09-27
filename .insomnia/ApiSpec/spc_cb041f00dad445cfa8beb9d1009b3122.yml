@@ -1,7 +1,7 @@
 _id: spc_cb041f00dad445cfa8beb9d1009b3122
 type: ApiSpec
 parentId: wrk_9e4a538ecf934fb0b832bd1e2e4f3abd
-modified: 1662578873594
+modified: 1664288489742
 created: 1662578868919
 fileName: API XYZ
 contents: >-
@@ -38,7 +38,7 @@ contents: >-
       post:
         tags:
           - pet
-        summary: Add a new pet to the acougue
+        summary: Add a new pet to the abatedouro
         description: ""
         operationId: addPet
         requestBody:
